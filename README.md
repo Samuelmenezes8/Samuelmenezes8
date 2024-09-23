@@ -18,6 +18,12 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmenezes8&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+- 🔭 I currently work as a CLT in the administrative area of ​​law
+- 🌱 I'm currently learning JavaScript
+- 🤔 I'm looking for help with mentors
+
+  
+
 <div>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 </div>
@@ -25,12 +31,5 @@
 **Samuelmenezes8/Samuelmenezes8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-- 🔭 I currently work as a CLT in the administrative area of ​​law
-- 🌱 I'm currently learning JavaScript
-- 🤔 I'm looking for help with mentors
-
-  
 - 📫 How to reach me: 
-
 
