@@ -25,7 +25,9 @@
 - 🔭 I currently work as a CLT in the administrative area of ​​law
 - 🌱 I'm currently learning JavaScript
 - 🤔 I'm looking for help with mentors
+<!--
 - 📫
+-->
   
 
 <div> 
