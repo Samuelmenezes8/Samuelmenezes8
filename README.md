@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou o Samuel Menezes!
 
-Sou um profissional em transição de carreira, migrando da área administrativa de direito para o mundo do desenvolvimento de tecnologia. Atualmente, estou focado em me tornar um **Desenvolvedor Front-end**, utilizando minha capacidade de organização e resolução de problemas para criar interfaces bonitas e funcionais. Tenho um grande interesse por design e experiência do usuário (UX/UI), buscando sempre unir um código limpo a uma estética agradável.
+Sou um profissional em transição de carreira com o objetivo de me tornar um **Desenvolvedor Full-Stack**. Com uma base sólida nas tecnologias de **Front-end**, agora estou expandindo minhas habilidades para o **Back-end**, estudando ativamente **Python** e o framework **Django**.
+
+Minha meta é construir aplicações web completas, combinando uma interface intuitiva e agradável com um back-end robusto e eficiente.
 
 ---
 
@@ -12,14 +14,14 @@ Sou um profissional em transição de carreira, migrando da área administrativa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
 
+  <p><strong>Back-end (Em Desenvolvimento):</strong></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
+    
   <p><strong>Ferramentas e Design:</strong></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40" alt="Photoshop" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator" />
-    
-  <p><strong>Estudando no momento:</strong></p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" />
 </div>
 
 ---
