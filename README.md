@@ -1,5 +1,5 @@
-# 👋 Hello World! Welcome to my Github profile.
-## My name is Samuel Menezes
+# 👋 Hello World! Bem vindos ao meu perfil.
+## Meu nome é Samuel Menezes
 
 
 <div>
