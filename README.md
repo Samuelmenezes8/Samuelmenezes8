@@ -49,7 +49,7 @@ Minha jornada é uma transição de carreira da **área administrativa**, onde d
 
 ### 🚀 Vamos nos conectar?
 
-Estou animado com a jornada de aprendizado contínuo e sempre em busca de projetos onde possa colaborar, aprender e aplicar minhas habilidades para construir algo significativo.
+Estou animado com a jornada de aprendizado contínuo e sempre em busca de projetos onde possa colaborar, aprender e aplicar minhas habilidades para construir algo significativo. 
 
 Se você se interessou pela minha trajetória ou quer discutir sobre tecnologia, carreira ou oportunidades, será um prazer conversar.
 
